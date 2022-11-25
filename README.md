@@ -1,6 +1,6 @@
-# <h1>Alura-copa;</h1>
 
-<h2>Projeto Construído no curso de "HTML & CSS" da plataforma Alura. Modifiquei algumas coisas acrescentando elementos  para deixar o trabalho no 
+
+<h2> Alura-copa, foi um projeto Construído no curso de "HTML & CSS" da plataforma Alura. Modifiquei algumas coisas acrescentando elementos  para deixar o trabalho no 
 clima da Copa de 2022</h2>
 
 
